@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ls05-layoutpractice</string>
+    <string name="toggleOn">Hot</string>
+    <string name="toggleOff">Cold</string>
+    <string name="boxOne">Milk</string>
+    <string name="boxTwo">Sugar</string>
+    <string name="boxThree">Lemon</string>
+</resources>
